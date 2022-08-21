@@ -30,4 +30,8 @@ A ideia foi desenvolver uma API  RestFull com Spring Boot Java para ser consumid
 
 - React
 
-
+## Protótipo
+![prototipo-dbook_page-0001](https://user-images.githubusercontent.com/22107732/185809241-a78f33d3-f62f-4705-838c-978c88713aaf.jpg)
+![prototipo-dbook_page-0002](https://user-images.githubusercontent.com/22107732/185809244-12769ab3-af6c-4e6b-a2cd-013c2f1353ab.jpg)
+## Modelo Entidade-Relacionamento
+![mer_dbook](https://user-images.githubusercontent.com/22107732/185809245-df804439-82f4-416c-a421-2acc7fc478b9.png)
